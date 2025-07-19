@@ -8,15 +8,9 @@
   "python": null,
   "quarto": null,
   "r": {
-    "version": "4.3.0",
-    "package_manager": {
-      "name": "packrat",
-      "version": "0.9.2"
-    }
+    "version": "4.3.0"
   },
-  "environment": {
-    "LANG": "en_US.UTF-8"
-  },
+  "environment": {},
   "packages": {
     "R": [
       {
@@ -58,9 +52,6 @@
   },
   "files": {
     "app.R": {
-      "checksum": "5d41402abc4b2a76b9719d911017c592"
-    },
-    "fantasy_draft.db": {
       "checksum": "5d41402abc4b2a76b9719d911017c592"
     }
   }
